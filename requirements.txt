@@ -1,0 +1,10 @@
+Flask==3.1.2
+requests>=2.28
+werkzeug>=2.3
+paho-mqtt>=2.1.0
+hbmqtt==0.9.6
+matplotlib>=3.7
+pandas>=2.0
+Ipython>=8.14
+aiocoap
+pymodbus<=2.5

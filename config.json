@@ -1,0 +1,8 @@
+{
+    "rows_to_read"  : 10000,
+    "path_to_data_file" : "data/data.txt",
+    "num_devices_mqtt" : 4,
+    "message_interval_mqtt" : 3,
+    "num_devices_coap" : 3,
+    "num_devices_modbus" : 4
+}
